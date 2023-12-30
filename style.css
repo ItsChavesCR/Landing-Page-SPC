@@ -1,0 +1,24 @@
+
+.header-landing{
+    background-color: darkblue;
+    
+    }
+    
+    .company-section{
+        background-color: rgb(42, 23, 61);
+    }
+    
+    .section-service{
+    background-color: whitesmoke;
+    
+    }
+    .gallery-section{
+    background-color: aqua;
+    }
+    .productions-section{
+    background-color: brown;
+    }
+    
+    .footer-landing{
+        background-color: mediumblue;
+    }
