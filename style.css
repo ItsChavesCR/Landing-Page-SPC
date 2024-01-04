@@ -1,5 +1,5 @@
 .header-landing {
-    background-color: darkblue;
+    background-color: #24272E;
 }
 .header-logo {
 }
@@ -8,7 +8,9 @@
 .Text-header {
 }
 .company-section {
-    background-color: rgb(42, 23, 61);
+    background-color:  #1A1C23;
+
+
 }
 .content-company {
 }
@@ -19,7 +21,7 @@
 .img-company {
 }
 .section-service {
-    background-color: whitesmoke;
+    background-color: #24272E;
 }
 .title-service {
 }
@@ -42,14 +44,14 @@
 .card3-logo {
 }
 .gallery-section {
-    background-color: aqua;
+    background-color:  #1A1C23;
 }
 .title-gallery {
 }
 .gallery {
 }
 .productions-section {
-    background-color: brown;
+    background-color: #24272E;
 }
 .title-productions {
 }
@@ -84,7 +86,7 @@
 .button-video3 {
 }
 .footer-landing {
-    background-color: mediumblue;
+    background-color:  #1A1C23;
 }
 .footer-section {
 }
