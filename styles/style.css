@@ -1,57 +1,90 @@
-.header-landing {
-    background-color: #24272E;
-}
+@import 'layout/layout.css';
+
 .header-logo {
 }
 .logo-header {
 }
 .Text-header {
+    display: flex;
+    font-family: Khula;
+    justify-content: space-evenly;
+    margin-left: 70%;
 }
-.company-section {
-    background-color:  #1A1C23;
-
-
+.header.inicio{
+}
+.header-aboutUs{
+}
+.header-contact{
 }
 .content-company {
 }
 .title-hero {
+font-family: Khula; 
+color: white;
+padding-left: 10%;
+margin-top: 0%;
 }
 .paragraph-company {
+    margin-right: 50%;
+    font-family: Khula;
+    color: white;
+    margin-top: 10%;
+    padding-left: 5%;
+    text-align: justify;
 }
 .img-company {
+    width: 35%;
+    padding-top: 1%;
+    padding-left: 60%;
 }
-.section-service {
-    background-color: #24272E;
-}
+
 .title-service {
+    color: white;
+    font-family: Khula;
 }
 .card1-service {
 }
 .title-service1 {
+    color: white;
+    font-family: Khula;
+
 }
 .card1-logo {
+    border-radius: 10%;
+    width: 14%;
 }
 .card2-service {
 }
 .title-service2 {
+    color: white;
+    font-family: Khula;
 }
 .card2-logo {
+    border-radius: 10%;
+    width: 14%;
 }
 .card3-service {
 }
 .title-service3 {
+    color: white;
+    font-family: Khula;
 }
 .card3-logo {
+    border-radius: 10%;
+    width: 14%;
 }
-.gallery-section {
-    background-color:  #1A1C23;
+.paragraph-service{
+    color: white;
+    font-family: Khula;
+    padding-right: 70%;
+    text-align: justify;
+
 }
 .title-gallery {
+    color: white;
+    font-family: Khula;
 }
 .gallery {
-}
-.productions-section {
-    background-color: #24272E;
 }
 .title-productions {
 }
@@ -84,9 +117,6 @@
 .paragraph-productions3 {
 }
 .button-video3 {
-}
-.footer-landing {
-    background-color:  #1A1C23;
 }
 .footer-section {
 }
